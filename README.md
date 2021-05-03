@@ -12,7 +12,7 @@ In this project we had build a propensity to buy model using [Online Shoppers In
 
 ## Algorithms Used
 * Logistic Regression
-* XGBoost
+
 
 ## Evaluation methods
  * Decile Analysis

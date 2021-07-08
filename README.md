@@ -26,5 +26,8 @@ In this project we had build a propensity to buy model using [Online Shoppers In
 * So, XGBoost performed well when compared to Logistic regression, by predicting 94% of buyers in top 3 deciles itself(in top 30%).
 
 * So, a company can focus on that 3 deciles of customers only(those 30% of customers) for their marketing purposes, who are more likely to purchase their products without wasting their time and resources on those remaining 70% customers, who are very less likely to buy.In this way our propensity model can help companies for saving their resources and time, by only targeting on people who are more likely to buy their products.
+![image](https://user-images.githubusercontent.com/71011054/124872490-f7ec6600-dfe2-11eb-93dc-d4c0f26ce09e.png)
+On test set(using XGBoost)
+
 
 
